@@ -1,7 +1,9 @@
 # COVID-19 UK Cases GUI
 
 This project is a graphical user interface (GUI) developed using Tkinter, a Python library, to display COVID-19 cases in the UK. It provides a user-friendly interface for users to visualize and track the spread of the virus across different regions in the UK.
-<img width="5927" alt="interface" src="https://github.com/UdaykiranEstari/covid19-uk-gui-tkinter/assets/115963773/c6baca99-e794-41cf-ba73-2a9f44ba03b4">
+
+<img width="5927" alt="interface" src="https://github.com/UdaykiranEstari/covid19-uk-gui-tkinter/assets/115963773/7da2cef5-e379-4ace-bd6b-c044bf1236ae">
+
 
 ## Features
 
@@ -37,8 +39,10 @@ The requirements.txt file contains the specific versions of the packages require
 4. The GUI will launch, displaying the COVID-19 cases in the UK. Explore the different features and interact with the interface to analyze the data.
 
 ## Images
-<img width="5139" alt="GUI" src="https://github.com/UdaykiranEstari/covid19-uk-gui-tkinter/assets/115963773/95503d66-4003-45db-a3af-2082cdc766d3">
 
+
+
+<img width="5139" alt="GUI" src="https://github.com/UdaykiranEstari/covid19-uk-gui-tkinter/assets/115963773/0e628173-a7cd-4197-9717-8db7890daf4b">
 
 
 
