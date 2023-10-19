@@ -1,4 +1,4 @@
-# COVID-19 UK Tracker: Interactive Graphical User Interface for Real-time Data Analysis
+# COVID-19 UK Tracker: Interactive Graphical User Interface
 
 This project is a graphical user interface (GUI) developed using Tkinter, a Python library, to display COVID-19 cases in the UK. It provides a user-friendly interface for users to visualize and track the spread of the virus across different regions in the UK.
 
